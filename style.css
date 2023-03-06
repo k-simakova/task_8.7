@@ -1,0 +1,26 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+.card {
+    color:rgb(100, 90, 175);
+    background-color: rgb(234, 237, 238);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: solid;
+}
+.btn-group {
+   position: relative;
+   vertical-align:baseline;
+}
+#btnRetry {
+    text-decoration:solid;
+}
+#btnLess {
+    font-size: 20px;
+}
+#btnOver {
+    font-size: 20px;
+}
+#btnEqual {
+    font-size: 22px;
+}
